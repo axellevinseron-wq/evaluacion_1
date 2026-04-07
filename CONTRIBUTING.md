@@ -1,12 +1,8 @@
 # Guía de Contribución
 
-| Acción | Descripción |
-| :--- | :--- |
-| Bug | Reportar errores en el código |
-| Feature | Proponer nuevas funcionalidades |
-
 ## Pasos para colaborar
 
-* Haz un fork del proyecto.
-* Crea una rama feature.
-* Envía un Pull Request.
+Para participar en el proyecto sigue estas instrucciones:
+
+1. Haz un fork del repositorio.
+2. Crea una rama para tu mejora.
